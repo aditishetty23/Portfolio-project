@@ -12,28 +12,24 @@ const AboutMe = () => {
         <div className="col-lg-6 col-xm-12">
           <h1 className="about-heading">About Me</h1>
           <p className="aboutme-para">
-            As a motivated Master's in Data Science student with a strong
-            foundation in data analytics, business development, and web design,
-            I am eager to leverage my skills in a variety of short-term
-            assignments across campus. In my recent role as a Data Analytics
-            Intern at NA Sportz Interactive, I honed my ability to analyze data,
-            develop metrics, and collaborate with cross-functional teams to
-            drive improvements. My experience as a Business Development
-            Specialist at Standard Multimodal Logistics Pvt Ltd further
-            developed my skills in client relations, market research, and
-            strategic partnerships, all of which I am excited to bring to this
-            role. Additionally, my technical proficiency in tools such as
-            Python, MS Office, and Power BI, combined with my strong
-            communication and organizational skills, make me confident in my
-            ability to contribute effectively in any department. My
+            As a Master's in Data Science student with a strong foundation in
+            data analytics, business development, and web design, I am eager to
+            apply my skills in short-term campus assignments. My recent Data
+            Analytics Internship at NA Sportz Interactive enhanced my abilities
+            in data analysis, metric development, and cross-functional
+            collaboration, while my experience as a Business Development
+            Specialist at Standard Multimodal Logistics Pvt Ltd honed my client
+            relations, market research, and strategic partnership skills.
+            Proficient in Python, MS Office, and Power BI, I am confident in my
+            ability to contribute effectively across departments. My
             adaptability, demonstrated through various roles in web design, data
-            analysis, and volunteer work, ensures I can quickly acclimate to new
-            environments and take on diverse challenges. The opportunity to work
-            with Student Temporary Services excites me as it aligns with my goal
-            of gaining professional experience, networking with campus hiring
-            managers, and making meaningful contributions to the university
-            community. I am confident that my background, skills, and enthusiasm
-            for learning will make me a valuable asset to your team.
+            analysis, and volunteer work, ensures I can quickly adjust to new
+            environments and tackle diverse challenges. I am excited about the
+            opportunity to work with Student Temporary Services to gain
+            professional experience, network with campus hiring managers, and
+            contribute meaningfully to the university community, believing that
+            my background, skills, and enthusiasm for learning will make me a
+            valuable asset to your team.
           </p>
         </div>
       </div>
