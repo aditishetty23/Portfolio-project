@@ -11,11 +11,9 @@ I have created my personal portfolio website using ReactJs, BootStrap and EmailJ
 | `EmailJs`  |  *to enable the functionality of receiving contact form submissions from your portfolio website via email*       |
 
 
-### **Portfolio link:** 
-###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://saurav2021c.github.io/Portfolio-project/)
 ---
 #### **Connect with me:** 
 <p>
- <a href="https://www.linkedin.com/in/sauravsinghhhh/" target="_blank" rel="noreferrer"><img src="src/images/LinkedIN_black.png" width="35" /></a>
+ <a href="https://www.linkedin.com/in/aditi-shetty23" target="_blank" rel="noreferrer"><img src="src/images/LinkedIN_black.png" width="35" /></a>
 </p>
 
